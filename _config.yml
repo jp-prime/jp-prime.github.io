@@ -22,7 +22,7 @@ title: VINATONG.STORE
 email: btmt2019@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   비나통(VinaTong)은 베트남 호치민 푸미흥을 비롯한 지역의 한인 및 로컬 업소들이 제공하는 할인쿠폰을 모아, 베트남 교민들에게 다양한 혜택을 제공하고, 소상공인 업소의 온라인광고를 지원하는 혁신적인 베트남 로컬 커뮤니티 플랫폼입니다.
-baseurl: ""
+baseurl: "https://jp-prime.github.io"
 url: https://jp-prime.github.io
 twitter_username: jprimenet
 github_username:  jp-prime
