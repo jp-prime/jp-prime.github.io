@@ -1,39 +1,17 @@
+<!-- 기존 테마 스타일 -->
+<link rel="stylesheet" href="{{ " /assets/css/style.scss" | relative_url }}">
+
+<!-- 우리가 만든 폰트 스타일 강제 추가 -->
 <style>
-    /* 1. 폰트 로드 */
     @font-face {
         font-family: 'Paperlogy';
         src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-4Regular.woff2') format('woff2');
         font-weight: 400;
-        font-style: normal;
-        font-display: swap;
     }
 
-    @font-face {
-        font-family: 'Paperlogy';
-        src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-7Bold.woff2') format('woff2');
-        font-weight: 700;
-        font-style: normal;
-        font-display: swap;
-    }
+    /* ... (나머지 굵기 설정들) ... */
 
-    /* 2. 레이아웃은 안 건드리고, 폰트만 부드럽게 교체 */
-    body,
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        font-family: 'Paperlogy', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    }
-
-    /* 3. 제목 굵기만 세밀하게 조절 */
-    h1 {
-        font-weight: 700;
-    }
-
-    h2,
-    h3 {
-        font-weight: 700;
+    body {
+        font-family: 'Paperlogy', sans-serif !important;
     }
 </style>
