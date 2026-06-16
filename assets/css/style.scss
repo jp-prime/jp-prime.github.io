@@ -1,24 +1,5 @@
 --- --- @import "minima";
 
-/* (폰트 페이스 설정은 그대로 두세요) */
-
-/* 이렇게 수정하세요 */
 body {
-    /* 기존의 긴 폰트 리스트를 무시하고 Paperlogy를 최우선으로 지정 */
-    font-family: 'Paperlogy', sans-serif !important;
-    /* main.css에서 강제하던 스타일을 여기서 다시 정의 */
-    font-weight: 400 !important;
-    font-size: 16px !important;
-    line-height: 1.5 !important;
-    color: #111 !important;
-}
-
-/* 제목들도 강제 적용 */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
     font-family: 'Paperlogy', sans-serif !important;
 }

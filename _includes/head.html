@@ -1,0 +1,16 @@
+<!-- 기존 테마 스타일 -->
+<link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+<!-- 우리가 만든 폰트 스타일 강제 추가 -->
+<style>
+  @font-face {
+    font-family: 'Paperlogy';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-4Regular.woff2') format('woff2');
+    font-weight: 400;
+  }
+  /* ... (나머지 굵기 설정들) ... */
+  
+  body {
+    font-family: 'Paperlogy', sans-serif !important;
+  }
+</style>
