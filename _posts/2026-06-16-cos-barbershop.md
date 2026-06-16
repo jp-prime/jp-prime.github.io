@@ -5,6 +5,8 @@ date: 2026-06-16 16:26:00 +0700
 categories: jekyll
 ---
 
+[![코스이발소](https://cdn.sanity.io/images/8xyje6wz/production/0dbe2bf944834312b4d0893e4573c4b38689c744-1980x1080.jpg)](https://www.vinatong.store/store/%ED%91%B8%EB%AF%B8%ED%9D%A5%EC%9D%B4%EB%B0%9C%EC%86%8C-%EC%BD%94%EC%8A%A4%EC%9D%B4%EB%B0%9C%EC%86%8C)
+
 ### 💈 푸미흥에서 만나는 인생 힐링, '코스이발소'를 소개합니다!
 일상의 피로가 쌓여 몸과 마음이 무거운 날, 어디로 가야 할지 고민이신가요?
 호치민 푸미흥에서 '제대로 된 힐링'을 경험할 수 있는 곳, 바로 코스이발소입니다.
