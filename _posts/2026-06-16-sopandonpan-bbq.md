@@ -3,6 +3,8 @@ layout: post
 title: "인생의 고기를 만나는 곳, 프리미엄 BBQ '소판돈판'을 소개합니다!"
 date: 2026-06-16 16:36:00 +0700
 categories: jekyll
+thumbnail: "https://cdn.sanity.io/images/8xyje6wz/production/4e83f417803a38d5abea3d10453474828d589280-1980x1080.jpg"
+description: "인생의 고기를 만나는 곳, 프리미엄 BBQ 전문 소판돈판(Sopandonpan)을 소개합니다. 최상급 원육과 신선한 테이블, 격조 높은 단독 룸에서 품격 있는 미식을 경험해보세요."
 ---
 
 [![소판돈판](https://cdn.sanity.io/images/8xyje6wz/production/4e83f417803a38d5abea3d10453474828d589280-1980x1080.jpg)](https://www.vinatong.store/store/%ED%91%B8%EB%AF%B8%ED%9D%A5%EB%A7%9B%EC%A7%91-Nh%C3%A0-h%C3%A0ng-%EC%86%8C%ED%8C%90%EB%8F%88%ED%8C%90BBQ)

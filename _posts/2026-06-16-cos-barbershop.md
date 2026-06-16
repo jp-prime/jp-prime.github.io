@@ -3,6 +3,8 @@ layout: post
 title: "푸미흥에서 만나는 인생 힐링, '코스이발소'를 소개합니다!"
 date: 2026-06-16 16:26:00 +0700
 categories: jekyll
+thumbnail: "https://cdn.sanity.io/images/8xyje6wz/production/0dbe2bf944834312b4d0893e4573c4b38689c744-1980x1080.jpg"
+description: "호치민 푸미흥에서 제대로 된 힐링을 경험할 수 있는 곳! 한국산 최고급 제품 사용과 머리부터 발끝까지 완벽한 풀코스 케어를 선사하는 코스이발소를 소개합니다."
 ---
 
 [![코스이발소](https://cdn.sanity.io/images/8xyje6wz/production/0dbe2bf944834312b4d0893e4573c4b38689c744-1980x1080.jpg)](https://www.vinatong.store/store/%ED%91%B8%EB%AF%B8%ED%9D%A5%EC%9D%B4%EB%B0%9C%EC%86%8C-%EC%BD%94%EC%8A%A4%EC%9D%B4%EB%B0%9C%EC%86%8C)
