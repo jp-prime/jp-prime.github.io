@@ -1,40 +1,19 @@
 --- --- @import "minima";
 
-/* 1. Paperlogy 웹 폰트 로드 */
-@font-face {
-    font-family: 'Paperlogy';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-4Regular.woff2') format('woff2');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
+/* (폰트 페이스 설정은 그대로 두세요) */
+
+/* 이렇게 수정하세요 */
+body {
+    /* 기존의 긴 폰트 리스트를 무시하고 Paperlogy를 최우선으로 지정 */
+    font-family: 'Paperlogy', sans-serif !important;
+    /* main.css에서 강제하던 스타일을 여기서 다시 정의 */
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+    color: #111 !important;
 }
 
-@font-face {
-    font-family: 'Paperlogy';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-5Medium.woff2') format('woff2');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Paperlogy';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-7Bold.woff2') format('woff2');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Paperlogy';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-8ExtraBold.woff2') format('woff2');
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-
-/* 2. 전체 텍스트 요소에 폰트 적용 */
-body,
+/* 제목들도 강제 적용 */
 h1,
 h2,
 h3,
@@ -42,12 +21,4 @@ h4,
 h5,
 h6 {
     font-family: 'Paperlogy', sans-serif !important;
-    letter-spacing: -0.01em !important;
-    word-break: keep-all !important;
-}
-
-/* 3. 본문 가독성 설정 */
-.post-content p,
-.entry-content p {
-    line-height: 1.7 !important;
 }
