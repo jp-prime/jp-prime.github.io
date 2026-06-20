@@ -12,7 +12,8 @@ body {
 .post-content {
   line-height: 1.8 !important;
   font-size: 15.5px !important;
-  color: #111827 !important;
+  color: #ff0000 !important; /* 동작 확인을 위해 빨간색으로 변경 */
+  font-family: "Dotum", "돋움", sans-serif !important; /* 동작 확인을 위해 돋움 폰트 적용 */
 }
 
 /* Dark Mode Support */
