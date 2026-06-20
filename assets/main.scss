@@ -201,6 +201,30 @@ p, entry-content p, post-content p {
 .post-content a:hover { 
   text-decoration: underline !important; 
 }
+
+/* 버튼(쿠폰버튼 등) 형태로 만들어진 링크 내부 텍스트 스타일 자동 예외처리 */
+.post-content a[style*="background-color"],
+.post-content a[style*="background"],
+.post-content *[style*="background-color"] a,
+.post-content *[style*="background"] a {
+  color: inherit !important; /* 부모 배경에 따라 적용된 인라인 컬러나 contrast 컬러를 해치지 않도록 inherit */
+  text-decoration: none !important;
+}
+
+/* 🎟️ 인라인 스타일 버튼에 명시적인 가독성 색상(흰색) 및 밑줄 제거 강제 지정 */
+.post-content a[style*="color: white"],
+.post-content a[style*="color: #fff"],
+.post-content a[style*="color: #ffffff"] {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+.post-content a[style*="color: white"]:hover,
+.post-content a[style*="color: #fff"]:hover,
+.post-content a[style*="color: #ffffff"]:hover {
+  text-decoration: none !important;
+  opacity: 0.9;
+}
+
 .post-content hr { 
   border: none !important; 
   border-top: 1px solid #e5e7eb !important; 
