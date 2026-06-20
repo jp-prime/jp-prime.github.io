@@ -1,0 +1,164 @@
+/* 
+   Markdown Preview & Viewer Styles (from Markdown Editor Pro)
+   This file ensures that markdown posts render exactly like the editor's web viewer.
+*/
+
+.post-content {
+  line-height: 1.8;
+  font-size: 15px;
+  color: #111827;
+}
+
+/* Dark Mode support if active */
+@media (prefers-color-scheme: dark) {
+  .post-content {
+    color: #f9fafb;
+  }
+}
+
+/* Markdown Headers */
+.post-content h1 { 
+  font-size: 26px; 
+  font-weight: 600; 
+  margin: 24px 0 12px; 
+  border-bottom: 1px solid #e5e7eb; 
+  padding-bottom: 8px; 
+}
+.post-content h2 { 
+  font-size: 21px; 
+  font-weight: 600; 
+  margin: 20px 0 10px; 
+  border-bottom: 1px solid #f3f4f6; 
+  padding-bottom: 4px; 
+}
+.post-content h3 { 
+  font-size: 17px; 
+  font-weight: 600; 
+  margin: 16px 0 8px; 
+}
+
+/* Paragraphs & Spacing */
+.post-content p { 
+  margin: 0 0 14px; 
+}
+
+/* Lists */
+.post-content ul, .post-content ol { 
+  padding-left: 24px; 
+  margin: 0 0 14px; 
+}
+.post-content li { 
+  margin: 6px 0; 
+}
+
+/* Inline Code & Block Code */
+.post-content code { 
+  background: #f9fafb; 
+  padding: 3px 6px; 
+  border-radius: 4px; 
+  font-family: 'D2Coding', 'Consolas', monospace; 
+  font-size: 13.5px; 
+  color: #2563eb; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content code {
+    background: #111827;
+    color: #60a5fa;
+  }
+}
+
+.post-content pre { 
+  background: #f9fafb; 
+  padding: 14px; 
+  border-radius: 8px; 
+  overflow-x: auto; 
+  margin: 0 0 14px; 
+  border: 1px solid #e5e7eb; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content pre {
+    background: #111827;
+    border-color: #374151;
+  }
+}
+
+.post-content pre code { 
+  background: none; 
+  padding: 0; 
+  color: inherit; 
+  font-size: 13.5px; 
+}
+
+/* Blockquotes */
+.post-content blockquote { 
+  border-left: 4px solid #e5e7eb; 
+  padding-left: 16px; 
+  color: #4b5563; 
+  margin: 0 0 14px; 
+  font-style: italic; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content blockquote {
+    border-left-color: #374151;
+    color: #d1d5db;
+  }
+}
+
+/* Tables */
+.post-content table { 
+  border-collapse: collapse; 
+  width: 100%; 
+  margin: 0 0 14px; 
+  font-size: 14px; 
+}
+.post-content th, .post-content td { 
+  border: 1px solid #e5e7eb; 
+  padding: 10px 14px; 
+  text-align: left; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content th, .post-content td {
+    border-color: #374151;
+  }
+}
+
+.post-content th { 
+  background: #f9fafb; 
+  font-weight: 600; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content th {
+    background: #111827;
+  }
+}
+
+/* Links & Media */
+.post-content a { 
+  color: #2563eb; 
+  text-decoration: none; 
+}
+.post-content a:hover { 
+  text-decoration: underline; 
+}
+.post-content hr { 
+  border: none; 
+  border-top: 1px solid #e5e7eb; 
+  margin: 20px 0; 
+}
+.post-content strong { 
+  font-weight: 600; 
+}
+.post-content em { 
+  font-style: italic; 
+}
+.post-content img { 
+  max-width: 100%; 
+  border-radius: 6px; 
+  display: block;
+  margin: 12px auto;
+}
