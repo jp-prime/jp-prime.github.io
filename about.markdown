@@ -1,18 +1,32 @@
 ---
 layout: page
-title: About
+title: "About"
 permalink: /about/
+thumbnail: "https://cdn.sanity.io/images/8xyje6wz/production/9777f74c56e0867837f79e7b5ee6a75e7bc49ddf-1980x1080.jpg"
+description: "베트남 호치민 푸미흥 중심의 할인쿠폰 모음 로컬 상생 플랫폼 비나통(VinaTong) 회사소개 페이지입니다."
 ---
+## 🤝 비나통(VinaTong) 회사소개 및 로컬 플랫폼 안내
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 교민과 업소가 상생하는 할인쿠폰 커뮤니티
+비나통(VinaTong)은 베트남 호치민 푸미흥을 비롯한 베트남 한인 타운 및 주요 로컬 업소의 할인 정보를 모아, 교민들과 여행객에게 풍성한 혜택을 전하는 로컬 커뮤니티 플랫폼입니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### 💡 우리의 핵심 가치
+"소상공인의 광고 부담은 덜고, 고객 혜택은 극대화!"
+베트남 여행과 생활은 비나통 하나로 해결됩니다.
+>과도한 광고비 지출 대신 그 혜택을 이용객에게 할인으로 돌려주어, 업소는 단골을 유치하고 고객은 기분 좋은 소비를 할 수 있는 지속 가능한 윈윈(Win-Win) 환경을 만듭니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### 🎯 비나통 서비스 요약
+- 실속 할인쿠폰: 음식점, 스파/마사지, 이발소, 카페 등 다양한 업종 할인 지원 (평균 10% 내외).
 
+- 원스톱 홍보 대행 서비스: 마케팅 기획부터 SNS용 디자인 제작, 소셜 미디어 배포까지 원스톱으로 지원하여 점주님의 부담을 덜어드립니다.
 
-[jekyll-organization]: https://github.com/jekyll
+- 다채널 연계 홍보: 페이스북, 인스타그램, 틱톡, 유튜브, 네이버 블로그 등 맞춤 마케팅 진행.
+
+### 📌 비나통 서비스가 꼭 필요하신 분
+<i class="ti ti-check"></i> 저비용 고효율의 로컬 마케팅이 필요한 점주님
+<i class="ti ti-check"></i> 확실한 고객 유인책(쿠폰)으로 단골을 늘리고 싶으신 분
+<i class="ti ti-check"></i> SNS 콘텐츠 제작과 온라인 홍보가 막막하신 사장님
+
+>베트남은 **비나통**으로 **통**한다! 비나통은 한인 사회와 지역 비즈니스가 상생하는 로컬 파트너가 되겠습니다.
+
+[![비나통 VinaTong.store](https://cdn.sanity.io/images/8xyje6wz/production/9777f74c56e0867837f79e7b5ee6a75e7bc49ddf-1980x1080.jpg)](https://vinaTong.store)
