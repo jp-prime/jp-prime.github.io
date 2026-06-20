@@ -4,4 +4,167 @@ body {
     font-family: 'Paperlogy', sans-serif !important;
 }
 
-@import "custom-markdown";
+/* ==========================================================================
+   Markdown Viewer Styles (From Editor WebView)
+   - 복구하려면 여기서부터 파일 끝까지 삭제하시면 됩니다.
+   ========================================================================== */
+
+.post-content {
+  line-height: 1.8 !important;
+  font-size: 15.5px !important;
+  color: #111827 !important;
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  .post-content {
+    color: #f9fafb !important;
+  }
+}
+
+/* Headers */
+.post-content h1 { 
+  font-size: 26px !important; 
+  font-weight: 600 !important; 
+  margin: 24px 0 12px !important; 
+  border-bottom: 1px solid #e5e7eb !important; 
+  padding-bottom: 8px !important; 
+}
+.post-content h2 { 
+  font-size: 21px !important; 
+  font-weight: 600 !important; 
+  margin: 20px 0 10px !important; 
+  border-bottom: 1px solid #f3f4f6 !important; 
+  padding-bottom: 4px !important; 
+}
+.post-content h3 { 
+  font-size: 17px !important; 
+  font-weight: 600 !important; 
+  margin: 16px 0 8px !important; 
+}
+
+/* Spacing */
+.post-content p { 
+  margin: 0 0 14px !important; 
+}
+
+/* Lists */
+.post-content ul, .post-content ol { 
+  padding-left: 24px !important; 
+  margin: 0 0 14px !important; 
+}
+.post-content li { 
+  margin: 6px 0 !important; 
+}
+
+/* Inline Code & Code Block */
+.post-content code { 
+  background: #f9fafb !important; 
+  padding: 3px 6px !important; 
+  border-radius: 4px !important; 
+  font-family: 'D2Coding', 'Consolas', monospace !important; 
+  font-size: 13.5px !important; 
+  color: #2563eb !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content code {
+    background: #111827 !important;
+    color: #60a5fa !important;
+  }
+}
+
+.post-content pre { 
+  background: #f9fafb !important; 
+  padding: 14px !important; 
+  border-radius: 8px !important; 
+  overflow-x: auto !important; 
+  margin: 0 0 14px !important; 
+  border: 1px solid #e5e7eb !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content pre {
+    background: #111827 !important;
+    border-color: #374151 !important;
+  }
+}
+
+.post-content pre code { 
+  background: none !important; 
+  padding: 0 !important; 
+  color: inherit !important; 
+  font-size: 13.5px !important; 
+}
+
+/* Blockquotes */
+.post-content blockquote { 
+  border-left: 4px solid #e5e7eb !important; 
+  padding-left: 16px !important; 
+  color: #4b5563 !important; 
+  margin: 0 0 14px !important; 
+  font-style: italic !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content blockquote {
+    border-left-color: #374151 !important;
+    color: #d1d5db !important;
+  }
+}
+
+/* Tables */
+.post-content table { 
+  border-collapse: collapse !important; 
+  width: 100% !important; 
+  margin: 0 0 14px !important; 
+  font-size: 14px !important; 
+}
+.post-content th, .post-content td { 
+  border: 1px solid #e5e7eb !important; 
+  padding: 10px 14px !important; 
+  text-align: left !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content th, .post-content td {
+    border-color: #374151 !important;
+  }
+}
+
+.post-content th { 
+  background: #f9fafb !important; 
+  font-weight: 600 !important; 
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-content th {
+    background: #111827 !important;
+  }
+}
+
+/* Links & Images */
+.post-content a { 
+  color: #2563eb !important; 
+  text-decoration: none !important; 
+}
+.post-content a:hover { 
+  text-decoration: underline !important; 
+}
+.post-content hr { 
+  border: none !important; 
+  border-top: 1px solid #e5e7eb !important; 
+  margin: 20px 0 !important; 
+}
+.post-content strong { 
+  font-weight: 600 !important; 
+}
+.post-content em { 
+  font-style: italic !important; 
+}
+.post-content img { 
+  max-width: 100% !important; 
+  border-radius: 6px !important; 
+  display: block !important;
+  margin: 12px auto !important;
+}
