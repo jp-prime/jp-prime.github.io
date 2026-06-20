@@ -1,4 +1,8 @@
---- --- @import "minima";
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
 
 body {
     font-family: 'Paperlogy', sans-serif !important;
@@ -12,14 +16,14 @@ body {
 .post-content {
   line-height: 1.8 !important;
   font-size: 15.5px !important;
-  color: #ff0000 !important; /* 동작 확인을 위해 빨간색으로 변경 */
-  font-family: "Dotum", "돋움", sans-serif !important; /* 동작 확인을 위해 돋움 폰트 적용 */
+  color: #ff0000 !important; /* 동작 확인용 임시 빨간색 */
+  font-family: "Dotum", "돋움", sans-serif !important; /* 동작 확인용 임시 돋움 */
 }
 
 /* Dark Mode Support */
 @media (prefers-color-scheme: dark) {
   .post-content {
-    color: #f9fafb !important;
+    color: #ff3333 !important;
   }
 }
 
