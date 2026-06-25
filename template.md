@@ -1,28 +1,31 @@
 ---
 layout: post
-title: "업체명 또는 제목 입력"
-date: YYYY-MM-DD HH:MM:SS +0700
-categories: jekyll
-thumbnail: "썸네일 이미지 URL 입력"
-description: "검색 결과 및 SNS에 노출될 간단한 설명글 입력"
+title: "푸미흥마사지 두리안마사지💝, 만족도 58000%"
+date: 2026-06-25 05:18:06 +0900
+image: "https://cdn.sanity.io/images/8xyje6wz/production/b7603363778d65d227bfbdf0dc5b015b8daa78aa-1980x1080.jpg"
+description: "호찌민 7군 푸미흥에 위치한 두리안 마사지&스파(Durian Massage & Spa)에 대한 정보입니다. 요약 두리안 마사지&스파는 2025년에 신규 오픈한 호찌민 7군 푸미흥 중심 상권의 남성전용💪 성인용 마사..."
 ---
 
-[![대체 텍스트](썸네일 이미지 URL 입력)](상세보기 링크 URL 입력)
+# 호찌민 7군 푸미흥에 위치한 두리안 마사지&스파(Durian Massage & Spa)에 대한 정보입니다.
 
-<div style="text-align: center; margin: 20px 0;"><a href="상세보기 링크 URL 입력" style="display: inline-block; background-color: #ff5a5f; color: white; padding: 14px 32px; text-decoration: none; font-weight: bold; border-radius: 30px; font-size: 16px; box-shadow: 0 4px 15px rgba(255, 90, 95, 0.3); border: none;">🎟️ 업체상세보기 | 할인쿠폰</a></div>
+## 🌈1.요약
+**두리안 마사지&스파**는 2025년에 신규 오픈한 호찌민 7군 푸미흥 중심 상권의 **남성전용💪** 성인용 마사지 전문점입니다. 현대적인 시설과 전통적인 베트남 마사지 기법을 결합하여 방문객들에게 최상의 힐링 휴식을 제공합니다. 
+[![푸미흥마사지 두리안마사지 & 스](https://cdn.sanity.io/images/8xyje6wz/production/b7603363778d65d227bfbdf0dc5b015b8daa78aa-1980x1080.jpg)](https://www.vinatong.store/store/%ED%91%B8%EB%AF%B8%ED%9D%A5%EB%A7%88%EC%82%AC%EC%A7%80-%EB%91%90%EB%A6%AC%EC%95%88%EB%A7%88%EC%82%AC%EC%A7%80)
+>한인 밀집 지역인 푸미흥에 위치하여 접근성이 매우 뛰어나며, 사우나, 때밀이, 마사지 등 다양한 코스를 체계적으로 갖추고 있어 지역 내에서도 남성전용 힐링 명소로 빠르게 자리 잡고 있습니다.
+<div style="text-align: center; margin: 20px 0;"><a href="https://www.vinatong.store/store/%ED%91%B8%EB%AF%B8%ED%9D%A5%EB%A7%88%EC%82%AC%EC%A7%80-%EB%91%90%EB%A6%AC%EC%95%88%EB%A7%88%EC%82%AC%EC%A7%80" style="display: inline-block; background-color: #ff5a5f; color: white; padding: 14px 32px; text-decoration: none; font-weight: bold; border-radius: 30px; font-size: 16px; box-shadow: 0 4px 15px rgba(255, 90, 95, 0.3); border: none;">🎟️ 업체상세보기 | 할인쿠폰</a></div>
 
-## 업소개요
-업소에 대한 대략적인 소개글을 입력하세요.
-> 핵심 요약 정보 및 소개글 한 줄을 입력하세요.
+## 💞2.주요 서비스 특징
+- **다양한 고급 케어**: 누루 마사지, 황제 때밀이, 정끌 마사지 등 고객의 취향과 컨디션에 맞춘 폭넓은 코스를 제공합니다.
+- **현대적인 시설**: 2025년 최신 시설로 오픈하여 쾌적하고 깔끔한 위생 환경을 자랑하며, 정통 마사지와 사우나를 함께 즐길 수 있습니다.
+- **우수한 접근성**: 푸미흥 중심 상권에 위치하여 거주자나 여행객 모두가 편리하게 방문할 수 있으며, 일상 속 피로를 풀기에 최적화된 공간입니다.
 
-## 업소특징 & 메뉴
-- **🥩 대표 메뉴 및 특징**: 대표 메뉴와 특징을 설명해 주세요.
-- **분위기 및 장점**: 업소의 분위기나 차별화된 점을 적어주세요.
-- **추가 특징**: 기타 특징들을 나열하세요.
+## 🚩3.매장 정보
+- **주소**: 34 Phan Khiêm Ích, Khu đô thị Phú Mỹ Hưng, Tân Hưng, Hồ Chí Minh
+- **연락처**: 0934 901 820
+- **영업시간**: 오전 10:00 ~ (오후 8시 전후가 붐비는 시간대)
 
-## 📍 매장 상세 정보
-* **위치**: 업소의 상세 주소를 입력하세요.
-* **영업시간**: 영업시간 정보를 입력하세요. (예: 매일 24시간 영업중)
-* **예약 문의**: 📞전화번호 또는 연락처 정보 입력
+---
 
-> 지금 바로 [**비나통(VinaTong)**](https://vinatong.store)에서 할인 쿠폰을 받아 더 합리적인 가격으로 완벽한 서비스를 경험해 보세요!
+### 🔗 비나통 링크 안내
+* **비나통 공식홈페이지** : [www.vinatong.store](https://www.vinatong.store)
+* **비나통 공식블로그** : [vn.coupong.online](https://vn.coupong.online)
